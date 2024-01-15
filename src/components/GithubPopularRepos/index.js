@@ -112,7 +112,7 @@ class GithubPopularRepos extends Component {
         height="100px"
         width="100px"
       />
-      <h1> Something Went Wrong </h1>{' '}
+      <h1> Something Went Wrong </h1>
     </div>
   )
 
