@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.before-active-language {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 10px;
+  padding: 10px;
+  border: none;
+  background-color: #ffffff;
+}
+
+.after-active-language {
+  color: #0284c7;
+  font-family: 'Roboto';
+  font-size: 10px;
+  border: 2px #0284c7 solid;
+  border-radius: 8px;
+  padding: 5px;
+}
