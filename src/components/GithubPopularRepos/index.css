@@ -1,8 +1,8 @@
 /* Write your CSS here */
 .card-container {
   background-color: #ffffff;
-  box-shadow: 2px 2px 2px 2px;
-  margin: 20px;
+  border: solid #efefef 2px;
+  margin: 40px;
   padding: 20px;
 }
 
